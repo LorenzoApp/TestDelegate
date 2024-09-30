@@ -1,0 +1,14 @@
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\bin\Debug\net7.0\TestDesignPattern.exe
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\bin\Debug\net7.0\TestDesignPattern.deps.json
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\bin\Debug\net7.0\TestDesignPattern.runtimeconfig.json
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\bin\Debug\net7.0\TestDesignPattern.dll
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\bin\Debug\net7.0\TestDesignPattern.pdb
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.AssemblyInfo.cs
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.dll
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\refint\TestDesignPattern.dll
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.pdb
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\TestDesignPattern.genruntimeconfig.cache
+C:\Users\loren\source\repos\CSAdvanced\TestDelegate\TestDesignPattern\obj\Debug\net7.0\ref\TestDesignPattern.dll

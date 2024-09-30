@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxQNvSgvrYY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loren\\source\\repos\\CSAdvanced\\TestDelegate\\TestDelegate\\TestDelegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loren\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\nlog.schema\\5.2.8\\nlog.schema.5.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
